@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Perez</h1>
 <h3 align="center">A passionate software developer, Networks and Security specialist from Uganda</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=perezchris3599&label=Profile%20views&color=0e75b6&style=flat" alt="perezchris3599" /> </p>
+
 
 - 🔭 I’m currently working on **projects in Django, Flask and OpenCv**
 
